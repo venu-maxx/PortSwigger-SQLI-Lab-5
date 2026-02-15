@@ -119,7 +119,7 @@ Content-Type: text/html; charset=utf-8
 Proof of Exploitation:
 
 
-![Proof of SQL Injection Error]()
+![Proof of SQL Injection Error](https://github.com/venu-maxx/PortSwigger-SQLI-Lab-5/blob/8170dbac26b7552bd3fe65ee1ec4d7fdd627646b/Portswigger%20Lab%205%20error.png)
 
 Figure 1: Database error after injecting single quote ('), confirming injecti
 
