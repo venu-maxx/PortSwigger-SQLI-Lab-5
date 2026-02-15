@@ -124,7 +124,7 @@ Proof of Exploitation:
 Figure 1: Database error after injecting single quote ('), confirming injecti
 
 
-![Proof of Successful Exploitation]()
+![Proof of Successful Exploitation](https://github.com/venu-maxx/PortSwigger-SQLI-Lab-5/blob/9eb7ce7f106f9286a18085083769e49d746338bc/Portswigger%20Lab%205%20success.png)
 
 Figure 2: PortSwigger Academy "Congratulations, you solved the lab!" banner.
 
