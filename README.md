@@ -129,7 +129,7 @@ Figure 1: Database error after injecting single quote ('), confirming injecti
 Figure 2: PortSwigger Academy "Congratulations, you solved the lab!" banner.
 
 
-![Lab Solved Congratulations]()
+![Lab Solved Congratulations](https://github.com/venu-maxx/PortSwigger-SQLI-Lab-5/blob/09186c168426f7d8a56b75425363797bd5d9aae6/Portswigger%20Lab%205%20Completion.png)
 
 Figure 3: Portswigger Lab Completed Successfully 
 
